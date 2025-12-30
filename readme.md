@@ -1,7 +1,6 @@
-# Palmanac
 ![alt text](img/pal%20logo.png)
 ---
-A small handheld notetaking device, inspired by [this project by ashtf](https://github.com/ashtf8/PocketMage_PDA)
+**Palmanac** is a small handheld notetaking device, inspired by [this project by ashtf](https://github.com/ashtf8/PocketMage_PDA)
 
-![alt text](img/2D_Keyboard_pcb_2025-12-30(1).png)
-![alt text](img/2D_Keyboard_pcb_2025-12-30.png)
+The device consists of two boards, one main board, handling logic and containing the keyboard, and one secondary screen board, handling the eink screen. 
+The device is powered by a ESP32-C3.
