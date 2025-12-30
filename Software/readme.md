@@ -1,0 +1,1 @@
+Software for the personal digital assistant project I'm working on. [Inspired by ashtf](https://www.youtube.com/watch?v=308KoLSLlCc) 
