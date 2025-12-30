@@ -1,5 +1,6 @@
 # Palmanac
-![alt text](img/pal%20logo.png)
+---
+This branch contains version 1 of the KB PCB, archived for prosperity. 
 ---
 A small handheld notetaking device, inspired by [this project by ashtf](https://github.com/ashtf8/PocketMage_PDA)
 
